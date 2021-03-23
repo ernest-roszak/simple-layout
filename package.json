@@ -1,6 +1,6 @@
 {
   "name": "simple-layout",
-  "home": "https://ernest-roszak.github.io/simple-layout/",
+  "homepage": "https://ernest-roszak.github.io/simple-layout/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
